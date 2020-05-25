@@ -1,0 +1,3 @@
+﻿Goomba;10	
+Eric;20
+Oliver;40

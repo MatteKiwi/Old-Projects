@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: UsernameandPassword, Configuration: Debug Any CPU ------
+1>  UsernameandPassword -> C:\Users\mathias.kiviniemi\documents\visual studio 2017\Projects\UsernameandPassword\UsernameandPassword\bin\Debug\UsernameandPassword.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
